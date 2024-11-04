@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ILHUM
+# 👋 Hi, I'm HUM
 Backend Developer passionate about high-performance systems and clean architecture.
 ## 🛠 Tech Stack
 - **Backend:** Go (Fiber, Gorm, Hexagonal Architecture, Concurrency)
